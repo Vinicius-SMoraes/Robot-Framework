@@ -12,7 +12,9 @@
 - Python versão 3.12.2 (https://www.python.org/downloads/);
 - Robot FrameWork versão 7.0 (comando para instalação no terminal: "pip install robotframework");
 - Selenium Webdriver (comando para instalação no terminal: "pip install robotframework-seleniumlibrary");
-- IDE de desenvolvimento (Sugestão) - VS Code (https://code.visualstudio.com/download).
+- IDE de desenvolvimento (Sugestão) - VS Code (https://code.visualstudio.com/download);
+- Pyyaml para usar arquivos.yml (comando para instalação no terminal: "pip install pyyaml");
+  
 
 ## Arquitetura:
 
