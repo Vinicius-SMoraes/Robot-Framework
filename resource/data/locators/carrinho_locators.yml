@@ -1,0 +1,1 @@
+VerificacaoCarrinhoVazio: //h2[contains(text(),"YOUR CART IS EMPTY")]

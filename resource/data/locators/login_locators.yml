@@ -1,0 +1,5 @@
+ElementoAbaDoLogin: xpath://a[@href='/login']
+CampoLogin: id:user  
+CampoSenha: id:password
+BotaoDeRealizarLogin: id:btnLogin
+

@@ -1,0 +1,9 @@
+# Variáveis do cenário 1 
+BotaoDeVerificacaoDoLogin: //button[@class="swal2-confirm swal2-styled"]
+BotaoAbaOrders: xpath:(//a[@href="/my-account/customer-order"])[2]
+# Variáveis do cenário 2
+BotaoMenuMeusPedidos: (//a[@class="offcanvas-toggle"])[2]
+ExclusaoItem1: (//a[@class="offcanvas-wishlist-item-delete"])[1]
+ExclusaoItem2: (//a[@class="offcanvas-wishlist-item-delete"])[2]
+ExclusaoItem3: (//a[@class="offcanvas-wishlist-item-delete"])[3]
+BotaoVerCarrinho: (//a[@class="theme-btn-one btn-black-overlay btn_md"])[1]
