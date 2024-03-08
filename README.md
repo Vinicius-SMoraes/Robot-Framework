@@ -20,7 +20,7 @@ A arquitetura padrão é composta por:
  
 - `resources`: Pacote que contém as pastas e arquivos de dados, como por exemplo váriaveis, pages, setup inicial;
 - `tests`: Pacote que contém os arquivos auxiliares e de suporte ao teste;
-    - **pages:** Pacote contendo arquivos com elementos e comandos de ação das respectivas páginas para auxílio dos testes.
+    
 
 ## Executando testes através do Robot:
 Para rodar os testes, siga os seguintes passos:
